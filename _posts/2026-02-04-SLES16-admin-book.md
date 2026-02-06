@@ -26,7 +26,7 @@ Writing a book of this scale is never a solo mission. It was a collaborative lab
 * **[Sergio Ocón Cárdenas](https://www.linkedin.com/in/sergioocon/):** My fellow co-author. Navigating the depths of SLES 16 with Sergio made the process not only smoother but much more insightful.
 * **[Pablo Iranzo Gómez](https://www.linkedin.com/in/iranzo/):** A huge thank you to Pablo, who provided vital content and shared his deep technical expertise to ensure we covered the right ground.
 * **[Apramit Bhattacharya](https://www.linkedin.com/in/apramit-bhattacharya-223901235/):** Our editor, who performed the "magic" of making our technical explanations flow beautifully. If the text feels smooth and readable, it’s thanks to Apramit’s keen eye.
-* **[Thorsten Kuluk](https://www.linkedin.com/in/thorsten-kukuk/):** Our technical reviewer. Thorsten did a phenomenal job keeping us honest and ensuring every command and configuration was accurate.
+* **[Thorsten Kukuk](https://www.linkedin.com/in/thorsten-kukuk/):** Our technical reviewer. Thorsten did a phenomenal job keeping us honest and ensuring every command and configuration was accurate.
 * **[Preet Ahuja](https://www.linkedin.com/in/meetarajani/):** Our marketing liaison, who helped us connect this work with the community and ensured the world knew what we were building.
 * **[Miguel Pérez Colino](https://www.linkedin.com/in/miguelpc/):** Myself :-D
 
