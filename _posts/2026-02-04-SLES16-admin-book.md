@@ -4,7 +4,7 @@ date: 2026-02-04
 excerpt: "February 04, 2026"
 layout: single
 header:
-tags: [Linux, Open Source, Books]
+tags: [Linux, Open Source, Books, SLES16]
 ---
 
 There is a specific kind of magic in the open-source world. It’s not just about the code; it’s about the community and the shared mission to make powerful technology accessible to everyone. 
