@@ -1,0 +1,54 @@
+---
+layout: single
+title: About
+permalink: /
+author_profile: true
+classes: wide
+---
+
+Technology has a funny way of weaving itself into every chapter of our lives. If you’ve ever found yourself equally excited by a clean simple implementation of code to solve a complex issue, and a perfectly built Lego set, then we’re definitely on the same wavelength. My name is Miguel Pérez Colino, and I’m a technology enthusiast, open-source advocate, and product management devotee based in Madrid, Spain.
+
+## Background
+
+I've been around for quite some time, holding now more than 25 years of experience in the industry. I started building Computer Labs in the University [Universidad Autónoma de Madrid](https://www.uam.es), teaching introductory courses and becoming a SysAdmin. This is like being a Marine, "Once a Sysadmin, always a Sysadmin". I’ve seen the tech landscape shift from local data centers to the vast horizons of the hybrid cloud. I’m a firm believer that technology should be a catalyst for growth, and I’ve spent my career bridging the gap between high-level strategy and technical execution.
+
+I hold a MsC. in Inorganic Chemistry [UAM](https://www.uam.es) as well as another MsC. in Computer Science [UOC](https://uoc.edu). You might think "What a waste of time!" ... well in some way it was indeed, however, my roots in science help me keep myself accurate and document everything properly. It's interesting that I managed to go to the same University as the King of Spain and the same High School as the Queen of Spain ... both public institutions.
+
+{% include figure image_path="/assets/images/about/miguel_uco-2024-12.jpg" alt="Miguel talking to students" caption="Talking and listening to students in the Universidad de Córdoba, Spain." %}
+
+## A Journey Through Restricted Zones & Cloud Frontiers
+
+My professional path has been anything but linear. I’ve navigated high-stakes, security-restricted environments like Defense and Finance, ensuring that critical systems remain robust and compliant. Early in my career, I served as a representative for Spain in various NATO groups, coordinating international interoperability standards and technical architectures.
+
+From the world of defense, I moved into the heart of the open-source community. My decade-long tenure at Red Hat saw me wear many hats, from Senior Consultant and Solution Architect to Senior Principal Product Manager. I led the launch of vital tools like the Migration Toolkit for Virtualization and even had a stint as an official spokesperson. My interest in R&D made me contribute with a patent on resource reservation for Kubernetes environments. Later, at VMware Tanzu, I dove deep into R&D, focusing on Kubernetes and large deployment architectures.
+
+I’ve had the privilege of working across diverse sectors, with really nice people, including manufacturing and retail, which has taught me that while the industry changes, the core challenge remains the same: empowering people through technology.
+
+{% include figure image_path="/assets/images/about/miguel-recording-2018-01.png" alt="Miguel recording training content" caption="Recording training content related to Cloud Migrations." %}
+
+## Where I Am Today
+
+Currently, I am the Senior Director of Product Management for Linux at SUSE. It also includes Product Marketing and Operations. It’s a multi-faceted role where I coordinate high-impact products like [SUSE Linux Enterprise Server](https://www.suse.com/products/server/). My daily mission involves:
+
+*   Taking care of and leading diverse, distributed teams to drive business growth.
+*   Managing complex operations and product roadmaps, including the recent launch of [SLES 16](https://www.suse.com/download/sles/).
+*   Deepening customer intimacy and handling strategic escalations.
+
+To better contribute to SLES 16 adoption, I co-wrote a book with [Sergio Ocón Cárdenas](https://www.linkedin.com/in/sergioocon/) & [Pablo Iranzo Gómez](https://www.linkedin.com/in/iranzo/), with help from our friends at [Packt](https://www.packtpub.com/en-es/product/suse-linux-enterprise-server-16-official-administration-guide-9781806021581), that in a display of originality, we called [SUSE Linux Enterprise Server 16 Official Administration Guide](https://www.amazon.com/Linux-Enterprise-Server-Official-Administration/dp/1806021595/140-9061893-7224919?psc=1).
+
+In 2023, my team's efforts were recognized with the "Business Growth Impact" award, a testament to the +40% growth we brought to the SUSE Manager product line. What a nice product, and what a nice team!.
+
+{% include figure image_path="/assets/images/about/miguel_1st_day_suse.png" alt="Miguel's first day at SUSE" caption="My first day at the SUSE office in Madrid." %}
+
+## Certifications
+
+*   **CKA** (Certified Kubernetes Administrator)
+*   **CKAD** (Certified Kubernetes Application Developer)
+
+## Beyond the Screen
+
+When I’m not scaling enterprise products or diving into Kubernetes, you can usually find me pursuing my other passions. I’m an always beginning runner, but I also have a musical side. I love playing the bass and guitar, and I even dabble in luthiery (the art of building and fixing them). Whether it's testing a new chemical compound or a new line of code, I’ve always been driven by curiosity.
+
+{% include figure image_path="/assets/images/about/miguel_luthier-2024-02.jpg" alt="Fender Telecaster build" caption="Tex-Mex Fender Telecaster build (Mexican Tele with Texas Special Pickups)." %}
+
+I’m always looking for new challenges to grow and ways to help others do the same. If you want to talk shop about Linux, open-source strategy, or even the best way to customize a Fender P-Bass, feel free to reach out!.
