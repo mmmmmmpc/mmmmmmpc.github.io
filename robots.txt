@@ -1,0 +1,15 @@
+Sitemap: https://miguelpc.eu/sitemap.xml
+
+User-agent: *
+Allow: /
+
+# Disallow some Jekyll internal directories
+Disallow: /_data/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_pages/
+Disallow: /_posts/
+Disallow: /_sass/
+Disallow: /vendor/
+Disallow: /tmp/
+Disallow: /log/

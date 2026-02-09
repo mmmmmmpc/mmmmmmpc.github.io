@@ -21,7 +21,7 @@ title                    : "Miguel Pérez Colino - Personal Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Miguel Pérez Colino"
-description              : "Personal Website of Miguel Pérez Colino - Technology Enthusiast"
+description              : "Personal Website of Miguel Pérez Colino - Technology Enthusiast, Open Source Advocate, and Senior Director of Product Management for Linux at SUSE. Based in Madrid, Spain."
 url                      : "https://miguelpc.eu" # "https://mmmmmmpc.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmmmmmpc/mmmmmmpc.github.io"
