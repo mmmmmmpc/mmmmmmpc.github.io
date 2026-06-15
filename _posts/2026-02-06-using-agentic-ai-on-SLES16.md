@@ -1,9 +1,12 @@
 ---
 title: "Agentic AI on SLES 16: Getting Started with mcphost"
 date: 2026-02-06
-excerpt: "February 04, 2026"
+description: "Explore the new Agentic AI capabilities in SLES 16 using mcphost and the Model Context Protocol (MCP)."
+excerpt: "Learn how mcphost and MCP enable Agentic AI to troubleshoot and analyze SLES 16 systems effectively."
 layout: single
 header:
+  teaser: "/assets/images/miguel_pc-square-mini.jpg"
+categories: [Linux, AI]
 tags: [Linux, AI, SLES16]
 ---
 
