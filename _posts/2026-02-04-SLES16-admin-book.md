@@ -15,7 +15,7 @@ It took us several months, immersed in a project that is very close to my heart.
 
 ### More Than Just a Manual
 
-When we set out to write this book, we didn't want to create another dry, academic reference manual that sits on a shelf gathering dust. We wanted to build a bridge for people coming from other distros, as well as a gate for people entering the Linux world from other corners (Development, Newtorking, Security, Students ...). 
+We wanted to build a bridge for people coming from other distros, as well as a gate for people entering the Linux world from other corners (Development, Networking, Security, Students ...).
 
 Our goal was to create a "how-to" guide—a collection of practical, hands-on journeys through the different parts of the operating system. The best way to enjoy it is to have your laptop next to the book and follow chapter after chapter. Whether you are a seasoned sysadmin looking for a refresh or a view on SLES, or someone just starting their Linux adventure, we wanted the text to feel like a conversation with a colleague that tells you "this is how I do it but feel free to experiment". We put a lot of care and love into ensuring that complex topics were broken down into actionable steps, showing not just the *what*, but the *how* and the *why*.
 
