@@ -11,7 +11,7 @@ There is a specific kind of magic in the open-source world. It’s not just abou
 
 It took us several months, immersed in a project that is very close to my heart. On January 7th 2026 we finally were able to share the result: the **"SUSE Linux Enterprise Server 16 Official Administration Guide."**
 
-![Cover of the SUSE Linux Enterprise Server 16 Official Administration Guide](/assets/images/2026-02-04-SLES16-admin-book/SLES16-book.cover.jpg)
+![SUSE Linux Enterprise Server 16 Official Administration Guide Book Cover](/assets/images/2026-02-04-SLES16-admin-book/SLES16-book.cover.jpg)
 
 ### More Than Just a Manual
 
