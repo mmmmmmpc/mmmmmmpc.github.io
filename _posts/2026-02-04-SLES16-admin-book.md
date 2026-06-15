@@ -1,9 +1,12 @@
 ---
 title: "Bringing Linux Closer: The Journey of the SLES 16 Official Administration Guide"
 date: 2026-02-04
-excerpt: "February 04, 2026"
+description: "Insights into the journey of writing the SUSE Linux Enterprise Server 16 Official Administration Guide with a team of experts."
+excerpt: "Discover the collaborative effort and practical approach behind the new SLES 16 Official Administration Guide."
 layout: single
 header:
+  teaser: "/assets/images/2026-02-04-SLES16-admin-book/SLES16-book.cover.jpg"
+categories: [Linux]
 tags: [Linux, Open Source, Books, SLES16]
 ---
 
