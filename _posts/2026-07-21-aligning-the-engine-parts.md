@@ -2,7 +2,7 @@
 layout: post
 title: "Aligning the Engine Parts: Transparency and Synchronization in the Linux BU"
 date: 2026-07-21
-categories: [Leadership, Management, SUSE, Open Source]
+categories: [Team, SUSE, Open Source]
 author: "Miguel Pérez Colino"
 description: "A test post to verify the site configuration."
 excerpt: "Testing the post layout and image rendering on the site."
