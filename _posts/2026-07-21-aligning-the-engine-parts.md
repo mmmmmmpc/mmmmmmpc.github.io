@@ -19,7 +19,8 @@ Sometimes, running the Linux Business Unit (BU) at SUSE is quite a bit like keep
 
 Think, for a moment, about the legendary Lockheed SR-71 Blackbird. It's an amazing piece of engineering. Its design reached a point where it had to be driven primarily by the immense heat each part of the structure would endure at Mach 3.3. Thermodynamics can blow yout head. To make it fly, they had to transform their entire working method to adapt to the use of titanium, creating technology and an industry that didn't even exist yet. They succeeded not just because they had brilliant engineers, but because every single team member—from those sourcing materials to those designing the airframe—was perfectly aligned on overcoming an impossible challenge. (Please read the book ["Blackbird Rising"](https://www.amazon.com/Blackbird-Rising-Birth-Aviation-Legend/dp/0967332702) to enjoy more about it.)
 
-![SR-71 Blackbird](https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird#/media/File:Lockheed_SR-71_Blackbird.jpg)
+![Lockheed SR-71 Blackbird](https://upload.wikimedia.org/wikipedia/commons/9/97/Lockheed_SR-71_Blackbird.jpg)
+*Photo: USAF / Public Domain via Wikimedia Commons*
 
 ## Bringing it all together
 
