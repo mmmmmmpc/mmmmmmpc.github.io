@@ -1,7 +1,7 @@
 ---
 title: "Aligning the Engine Parts: Transparency and Synchronization in the Linux BU"
 date: 2026-07-21
-categories: [Leadership, Management, SUSE, Open Source]
+categories: [Team, SUSE, Open Source]
 author: "Miguel Pérez Colino"
 description: "A test post to verify the site configuration."
 excerpt: "Testing the post layout and image rendering on the site."
@@ -20,7 +20,8 @@ Sometimes, running the Linux Business Unit (BU) at SUSE is quite a bit like keep
 
 Think, for a moment, about the legendary Lockheed SR-71 Blackbird. It's an amazing piece of engineering. Its design reached a point where it had to be driven primarily by the immense heat each part of the structure would endure at Mach 3.3. Thermodynamics can blow your head. To make it fly, they had to transform their entire working method to adapt to the use of titanium, creating technology and an industry that didn't even exist yet. They succeeded not just because they had brilliant engineers, but because every single team member—from those sourcing materials to those designing the airframe—was perfectly aligned on overcoming an impossible challenge. (Please read the book ["Blackbird Rising"](https://www.amazon.com/Blackbird-Rising-Birth-Aviation-Legend/dp/0967332702) to enjoy more about it.)
 
-![SR-71 Blackbird](/assets/images/2026-07-21-aligning-the-engine-parts/Lockheed_SR-71_Blackbird.jpg)
+![Lockheed SR-71 Blackbird](https://upload.wikimedia.org/wikipedia/commons/9/97/Lockheed_SR-71_Blackbird.jpg)
+*Photo: USAF / Public Domain via Wikimedia Commons*
 
 ## Bringing it all together
 
@@ -29,6 +30,8 @@ Our challenges in the enterprise software world might not involve titanium or Ma
 Each department looks at reality from its own perspective: Sales needs agile responses to market demands; Engineering takes care of technical elegance and, in our case is part of the upstream community; Legal evaluates risks; and Product seeks to maintain the consistency of the long-term roadmap. It is a complex ecosystem where every component is vital, yet inherently prone to pulling in slightly different directions.
 
 If these gears do not turn at the same pace, the machinery creaks. Looping arguments arise about what constitutes a fully supported solution versus a one-off effort. We risk treating critical infrastructure projects as best-effort exercises rather than fully supported products, or we risk sending mixed messages to the market regarding what we actually deliver. That is why transparency and interdepartmental alignment are not, for me, mere words from a corporate manual; they are the very structure that supports the entire project. They are the titanium airframe that keeps the BU from melting under the pressure of market demands.
+
+## Connecting the dots 
 
 A clear example of how we build this alignment is what we experience at the SUSE day @ SAP or the Technical Review Forum (TRF). I recently had the opportunity to participate by giving the welcoming message and introducing our Linux portfolio at our 2026 SUSE Day @ SAP and at our first TRF of the year. These cross-functional forums are essential. It is not about imposing a top-down vision, but about creating the right framework so that engineers, product managers, and alliance leaders can share context, discuss objections openly, and leave the room with a unified direction. It is the place where we ensure the engine and the aerodynamics are working together.
 
