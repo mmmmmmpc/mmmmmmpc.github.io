@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Aligning the Engine Parts: Transparency and Synchronization in the Linux BU"
 date: 2026-07-21
 categories: [Team, SUSE, Open Source]
@@ -7,6 +6,8 @@ author: "Miguel Pérez Colino"
 description: "A test post to verify the site configuration."
 excerpt: "Testing the post layout and image rendering on the site."
 layout: single
+header:
+  teaser: "/assets/images/2026-07-21-aligning-the-engine-parts/Lockheed_SR-71_Blackbird.jpg"
 ---
 
 ## The engine
@@ -17,7 +18,7 @@ Sometimes, running the Linux Business Unit (BU) at SUSE is quite a bit like keep
 
 ## The plane
 
-Think, for a moment, about the legendary Lockheed SR-71 Blackbird. It's an amazing piece of engineering. Its design reached a point where it had to be driven primarily by the immense heat each part of the structure would endure at Mach 3.3. Thermodynamics can blow yout head. To make it fly, they had to transform their entire working method to adapt to the use of titanium, creating technology and an industry that didn't even exist yet. They succeeded not just because they had brilliant engineers, but because every single team member—from those sourcing materials to those designing the airframe—was perfectly aligned on overcoming an impossible challenge. (Please read the book ["Blackbird Rising"](https://www.amazon.com/Blackbird-Rising-Birth-Aviation-Legend/dp/0967332702) to enjoy more about it.)
+Think, for a moment, about the legendary Lockheed SR-71 Blackbird. It's an amazing piece of engineering. Its design reached a point where it had to be driven primarily by the immense heat each part of the structure would endure at Mach 3.3. Thermodynamics can blow your head. To make it fly, they had to transform their entire working method to adapt to the use of titanium, creating technology and an industry that didn't even exist yet. They succeeded not just because they had brilliant engineers, but because every single team member—from those sourcing materials to those designing the airframe—was perfectly aligned on overcoming an impossible challenge. (Please read the book ["Blackbird Rising"](https://www.amazon.com/Blackbird-Rising-Birth-Aviation-Legend/dp/0967332702) to enjoy more about it.)
 
 ![Lockheed SR-71 Blackbird](https://upload.wikimedia.org/wikipedia/commons/9/97/Lockheed_SR-71_Blackbird.jpg)
 *Photo: USAF / Public Domain via Wikimedia Commons*
